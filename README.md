@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drezulh
-- 👀 I’m interested in gaming, mobile app development
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 👀 I’m interested in mobile app development, web development
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
